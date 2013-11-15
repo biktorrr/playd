@@ -1,0 +1,22 @@
+	Cable to PinMapping for Play'd			
+
+	Cable NR	Arduino Pin	Play'd Square/Use	
+RED ->	1	Gnd	-	
+	3	Analog 4	C3 push	
+	5	Analog 3	D2 push	
+	7	Analog 2	C2 puch	
+	9	Analog 1	B2 push	
+	11	Analog 0	A2 push	
+	13	Digital 9	A3 left speaker	
+	15	Digital 10	B3 vibration	
+	17	Digital 11	D3 right speaker	
+	19	Digital 2	B2 lights 1	
+	21	Digital 3	B2 lights 2	
+	23	Digital 4	C3 lights 1	
+	25	Digital 5	C3 lights 2	
+	27	-	-
+	29	-	-
+	31	-	-
+	33	-	-
+	35	-	-
+	37	-	-
